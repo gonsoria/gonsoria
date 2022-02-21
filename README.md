@@ -1,6 +1,5 @@
 ### Hi there 👋
-[https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif]
-
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 <!--
 **gonsoria/gonsoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

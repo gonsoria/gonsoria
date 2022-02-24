@@ -2,11 +2,6 @@
 <h3 align="center">A fullstack developer in JavaScript from Argentina</h3>
 
 ---
-
-![followers](https://img.shields.io/github/followers/gonsoria?style=social)
-![stars](https://img.shields.io/github/stars/gonsoria?style=social)
-
-
 <br/>
 <h2>Here's a little about me:</h2>
 
@@ -29,7 +24,15 @@ const gonsoria = {
 - 😄 I’m looking to collaborate on **Web Development**.
 - :books: I'm also studying Electronic Engineering in National University, La Plata.
 
+<br/>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
+
+
+<br/>
 
 
 ## Tech skills:
@@ -51,14 +54,10 @@ const gonsoria = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
-
-
 
 ---
+![followers](https://img.shields.io/github/followers/gonsoria?style=social)
+![stars](https://img.shields.io/github/stars/gonsoria?style=social)
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{gonsoria}/count.svg" alt="gonsoria :: Visitor's Count" /></p>

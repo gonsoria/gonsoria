@@ -27,8 +27,10 @@ const gonsoria = {
 
 - 🔭 I’m currently working on a group project in Henry's bootcamp.
 - 😄 I’m looking to collaborate on **Web Development**.
+- :books: I'm also studying Electronic Engineering in National University, La Plata.
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)

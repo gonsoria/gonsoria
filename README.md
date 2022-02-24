@@ -38,7 +38,7 @@ const gonsoria = {
 ---
 
 
-### Tech & Tools Preference
+### Tech skills:
 
 <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
@@ -50,8 +50,6 @@ const gonsoria = {
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 
 

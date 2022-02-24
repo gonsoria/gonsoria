@@ -3,13 +3,15 @@
 
 ---
 
-![followers](https://img.shields.io/github/followers/yuebaix?style=social)
-![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+![followers](https://img.shields.io/github/followers/gonsoria?style=social)
+![stars](https://img.shields.io/github/stars/gonsoria?style=social)
 
+
+<br/>
 <h2>Here's a little about me:</h2>
 
----
 
+```javascript 
 const gonsoria = {
     stack: {
         frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS"],
@@ -20,8 +22,7 @@ const gonsoria = {
     currentlyLearning: "Typescript",
     hobbies: ["music", "football", "reading"]
 };
-
-
+```
 <br/>
 
 - 🔭 I’m currently working on a group project in Henry's bootcamp.
@@ -29,10 +30,12 @@ const gonsoria = {
 
 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrariconstanza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanzaferrari/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
 
 
+
+---
 
 
 ### Tech & Tools Preference
@@ -53,8 +56,8 @@ const gonsoria = {
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coferrari&show_icons=true&locale=en&layout=compact" alt="coferrari" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coferrari&show_icons=true&locale=en" alt="coferrari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
 
 
 <h4 align="center">Visitor's count 👀</h4>

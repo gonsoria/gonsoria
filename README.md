@@ -13,14 +13,14 @@ const gonsoria = {
         backEnd: ["Node.js", "Express"],
         dataBase: ["Sequelize", "PostgreSQL"],
     },
-    softSkills: ["creativity", "problem solving", "collaborative", "adaptability", "commitment", "communication"],
+    softSkills: ["problem solving", "collaborative", "creativity", "adaptability", "commitment"],
     currentlyLearning: "Typescript",
     hobbies: ["music", "football", "reading"]
 };
 ```
 <br/>
 
-- 🔭 I’m currently working on a group project in Henry's bootcamp.
+- 🔭 I’m currently working with a team in Henry's bootcamp final project.
 - 😄 I’m looking to collaborate on **Web Development**.
 - :books: I'm also studying Electronic Engineering in National University, La Plata.
 

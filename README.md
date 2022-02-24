@@ -30,17 +30,9 @@ const gonsoria = {
 - :books: I'm also studying Electronic Engineering in National University, La Plata.
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
 
 
-
----
-
-
-### Tech skills:
+## Tech skills:
 
 <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
@@ -59,6 +51,14 @@ const gonsoria = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
+
+
+
+---
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{gonsoria}/count.svg" alt="gonsoria :: Visitor's Count" /></p>

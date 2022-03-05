@@ -11,7 +11,7 @@ const gonsoria = {
     stack: {
         frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS"],
         backEnd: ["Node.js", "Express"],
-        dataBase: ["Sequelize", "PostgreSQL"],
+        dataBase: ["Sequelize", "Prisma", "PostgreSQL"],
     },
     softSkills: ["problem solving", "collaborative", "creativity", "adaptability", "commitment"],
     currentlyLearning: "Typescript",

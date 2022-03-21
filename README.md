@@ -20,7 +20,7 @@ const gonsoria = {
 ```
 <br/>
 
-- 🔭 I’m currently working with a team in Henry's bootcamp final project.
+- 🔭 I’m currently working in a development team, in the backend area. 
 - 😄 I’m looking to collaborate on **Web Development**.
 - :books: I'm also studying Electronic Engineering in National University, La Plata.
 

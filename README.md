@@ -67,6 +67,6 @@ const gonsoria = {
 ## Proyects:
 
 NOKLER GAMES 
-<p align="right">
-  <img height="200" src="./assets/noklerhome.JPG" />
+<p align="center">
+  <img height="250" src="./assets/noklergit.jpg" />
 </p>

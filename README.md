@@ -67,5 +67,6 @@ const gonsoria = {
 ## Proyects:
 
 NOKLER GAMES 
-![Nokler home]
-(https://raw.githubusercontent.com/gonsoria/gonsoria/main/assets/noklerhome.jpg)
+<p align="right">
+  <img height="200" src="./assets/noklerhome.JPG" />
+</p>

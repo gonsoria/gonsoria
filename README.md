@@ -50,23 +50,29 @@ const gonsoria = {
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 
 
+
+<br/>
+
 ## Proyects:
 
-NOKLER GAMES 
+### NOKLER GAMES 
 
-#Home & gallery
-<p align="center">
+Home & gallery
+<p align="left">
   <img height="250" src="./assets/noklergit.jpg" />
 </p>
 
-#Product detail & product tables.
-<p align="center">
-  <img height="250" src="./assets/noklerdetail.jpg" />
+<p align="left">
+  <img height="250" src="./assets/noklerdb.png" />
 </p>
 
-#Prisma models - DataBase.
+<br/>
+
+### GAMESPOT
+
+Home & gallery
 <p align="center">
-  <img height="250" src="./assets/dbprisma.jpg" />
+  <img height="250" src="./assets/gamerspot.JPG" />
 </p>
 
 

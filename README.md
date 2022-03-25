@@ -53,7 +53,7 @@ const gonsoria = {
 
 <br/>
 
-## Proyects:
+## Projects:
 
 ### NOKLER GAMES 
 JavaScript | React | Redux | NodeJs | PostgreSQL | Expess | Prisma 
@@ -69,7 +69,7 @@ Home & gallery
 
 <br/>
 
-### MORE PROYECTS
+### MORE PROJECTS
 GAMESPOT -->
 JavaScript | React | Redux | NodeJs | Expess | PostgreSQL | Sequelize 
 

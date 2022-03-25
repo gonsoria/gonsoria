@@ -68,4 +68,4 @@ const gonsoria = {
 
 NOKLER GAMES 
 ![Nokler home]
-(https://raw.githubusercontent.com/gonsoria/gonsoria/master/assets/noklerhome.jpg)
+(https://raw.githubusercontent.com/gonsoria/gonsoria/main/assets/noklerhome.jpg)

@@ -49,6 +49,10 @@ const gonsoria = {
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
+
+
 
 
 <br/>
@@ -83,12 +87,6 @@ Home & gallery
 
 
 <br/>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
-
 
 ---
 

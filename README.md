@@ -50,6 +50,28 @@ const gonsoria = {
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 
 
+## Proyects:
+
+NOKLER GAMES 
+
+#Home & gallery
+<p align="center">
+  <img height="250" src="./assets/noklergit.jpg" />
+</p>
+
+#Product detail & product tables.
+<p align="center">
+  <img height="250" src="./assets/noklerdetail.jpg" />
+</p>
+
+#Prisma models - DataBase.
+<p align="center">
+  <img height="250" src="./assets/dbprisma.jpg" />
+</p>
+
+
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonsoria&show_icons=true&locale=en&layout=compact" alt="gonsoria" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonsoria&show_icons=true&locale=en" alt="gonsoria" /></p>
@@ -63,10 +85,3 @@ const gonsoria = {
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{gonsoria}/count.svg" alt="gonsoria :: Visitor's Count" /></p>
 
-
-## Proyects:
-
-NOKLER GAMES 
-<p align="center">
-  <img height="250" src="./assets/noklergit.jpg" />
-</p>

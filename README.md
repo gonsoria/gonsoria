@@ -67,4 +67,5 @@ const gonsoria = {
 ## Proyects:
 
 NOKLER GAMES 
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset/noklerhome.jpg
+![Nokler home]
+(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/noklerhome.jpg)

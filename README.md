@@ -78,7 +78,7 @@ JavaScript | React | Redux
 
 Home & gallery
 <p align="left">
-  <img height="500" src="./assets/others.png" />
+  <img height="450" src="./assets/others.png" />
 </p>
 
 

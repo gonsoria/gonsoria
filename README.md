@@ -26,13 +26,7 @@ const gonsoria = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
-
-
-<br/>
 
 
 ## Tech skills:
@@ -88,6 +82,14 @@ Home & gallery
 
 <br/>
 
+---
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalosoria.sg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalosoria-fullstack-developer/)
+
+
+<br/>
 ---
 
 ![followers](https://img.shields.io/github/followers/gonsoria?style=social)

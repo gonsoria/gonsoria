@@ -19,8 +19,8 @@ const gonsoria = {
 };
 ```
 <br/>
-- BackEnd LOVER :heartbeat:
-- 😄 I’m looking to collaborate on **Web Development**. 
+- BackEnd LOVER :heartbeat: <br/>
+- 😄 I’m looking to collaborate on **Web Development**.  <br/>
 - :books: I'm also studying Electronic Engineering in National University, La Plata.
 
 <br/>

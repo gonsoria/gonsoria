@@ -60,6 +60,7 @@ JavaScript | React | EmailJs | Chakra UI | i18next
   <img height="250" src="./assets/porfolio.JPG" />
 </p>
 
+<a href="https://gs-portfolio.vercel.app/" target="_blank">DEPLOY</a>
 
 ### NOKLER GAMES 
 JavaScript | React | Redux | NodeJs | PostgreSQL | Expess | Prisma 
@@ -72,6 +73,9 @@ Home & gallery
 <p align="left">
   <img height="250" src="./assets/noklerdb.png" />
 </p>
+
+<a href="https://nokler-noklerhenry.vercel.app/" target="_blank">DEPLOY</a>
+
 
 <br/>
 

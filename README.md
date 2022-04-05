@@ -53,6 +53,14 @@ const gonsoria = {
 
 ## Projects:
 
+### PORTFOLIO
+JavaScript | React | EmailJs | Chakra UI | i18next 
+
+<p align="left">
+  <img height="250" src="./assets/portfolio.JPG" />
+</p>
+
+
 ### NOKLER GAMES 
 JavaScript | React | Redux | NodeJs | PostgreSQL | Expess | Prisma 
 

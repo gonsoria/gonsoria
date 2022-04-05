@@ -57,7 +57,7 @@ const gonsoria = {
 JavaScript | React | EmailJs | Chakra UI | i18next 
 
 <p align="left">
-  <img height="250" src="./assets/portfolio.JPG" />
+  <img height="250" src="./assets/porfolio.JPG" />
 </p>
 
 
